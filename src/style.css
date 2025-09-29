@@ -69,6 +69,7 @@ button:hover {
 
   background-color: #0056b3;
 
+
 }
 
 
@@ -125,4 +126,16 @@ button.delete:hover {
 
   background-color: #c82333;
 
+}
+
+
+.lis {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  margin-right: auto;
+}
+
+.nun {
+  margin: 0;
 }
